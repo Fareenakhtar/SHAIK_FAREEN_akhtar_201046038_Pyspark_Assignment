@@ -1,0 +1,4 @@
+Fareen,13-08-1998,999999999,fareen@gmail.com,karnataka
+Namrutha,08-09-1998,9898989898,nam@gmail.com,AndraPradesh
+Madhuri,8-08-1997,9797079797,madu@gmail.com,Delhi
+James,12-12-1997,9090909090,james@gmail.com,UttarPradesh
