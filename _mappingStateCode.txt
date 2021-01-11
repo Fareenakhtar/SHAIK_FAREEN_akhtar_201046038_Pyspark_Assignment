@@ -1,0 +1,4 @@
+karnataka,KA
+AndraPradesh,AP
+Delhi,DL
+UttarPradesh,UP
