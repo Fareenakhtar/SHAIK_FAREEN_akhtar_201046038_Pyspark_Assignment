@@ -1,0 +1,5 @@
+Big Data analytics is the process of collecting, organizing and analyzing large sets of data (called Big Data) to discover patterns and other useful information. 
+Big Data analytics can help organizations to better understand the information contained within the data.
+It will also help identify the data that is most important to the business and future business decisions. 
+Analysts working with Big Data typically want the knowledge that comes from analyzing the data.
+
